@@ -1,4 +1,4 @@
-```markdown
+
 # Video to AVI Converter for Feature Phones
 
 Скрипт для Termux, конвертирующий видео в формат AVI, оптимизированный для кнопочных телефонов (MXMID G88 Pro и аналогичных).
@@ -77,6 +77,4 @@ mp4, mkv, avi, mov, flv, wmv, webm, 3gp, m4v, ts
 -q:v 3   # высокое качество
 -q:v 5   # сбалансированное (по умолчанию)
 -q:v 8   # меньший размер файла
-```
-
 ```
